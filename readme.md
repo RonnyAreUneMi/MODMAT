@@ -40,11 +40,9 @@ El sistema está organizado en múltiples módulos, cada uno con una responsabil
 |--------------------|-----------------------------------------------------------------------------|
 | `menu.py`          | 🧭 Menú principal. Punto de entrada del sistema.                            |
 | `calculadora.py`   | ➕ Módulo con operaciones básicas de calculadora.                           |
-| `fun2d.py`         | 📈 Funciones de matemáticas en dos dimensiones.                            |
-| `lineales.py`      | 📊 Resolución de sistemas lineales y operaciones relacionadas.             |
+| `fun2d.py`         | 📈 Funciones de matemáticas en dos dimensiones.                             |
 | `oppoli.py`        | 🧮 Operaciones con polinomios.                                              |
 | `opvect.py`        | 🧲 Operaciones con vectores.                                                |
-| `estilos.py`       | 🎨 Estilo visual y elementos gráficos.                                     |
 | `acercade.py`      | ℹ️ Información sobre el sistema.                                            |
 | `img/icon.png`     | 🖼 Icono utilizado en la interfaz del sistema.                             |
 
@@ -75,7 +73,8 @@ Puedes incluir imágenes aquí para mostrar el funcionamiento del sistema.
 ---
 
 ## 📬 Contacto
-
-Si tienes preguntas o sugerencias, puedes dejar un mensaje o enviar feedback.
+-rarellanou@unemi.edu.ec
+-Ronny Arellano Urgiles
+-Unemi- Software sexto semestre
 
 ---
